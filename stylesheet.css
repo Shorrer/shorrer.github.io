@@ -1,4 +1,10 @@
-.header {
+body {
+	margin: -21px 0px 0px 0px;
+}
+
+#header {
+	postion: fixed;
+	top: 0;
 	background-color: #009933;
 	border-style: none none solid none;
 	font-family: Tahoma, Geneva, sans-serif;
